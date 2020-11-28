@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prostokąt", "Prostokąt\Prostokąt.csproj", "{B864C668-07DF-47AF-BF1E-8A18F1C9115D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B864C668-07DF-47AF-BF1E-8A18F1C9115D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B864C668-07DF-47AF-BF1E-8A18F1C9115D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B864C668-07DF-47AF-BF1E-8A18F1C9115D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B864C668-07DF-47AF-BF1E-8A18F1C9115D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5B1D7CC-B89C-4779-BDFA-75E96B023E61}
+	EndGlobalSection
+EndGlobal
